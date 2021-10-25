@@ -1,0 +1,30 @@
+}
+
+/**    
+ * Font 2    
+ */
+@font-face {
+    font-family: "Flaticon2";
+    src: url("flaticon2.eot");
+    src: url("flaticon2.eot#iefix") format("embedded-opentype"), url("flaticon2.woff") format("woff"), url("flaticon2.ttf") format("truetype"), url("flaticon2.svg") format("svg");
+    font-weight: normal;
+    font-style: normal;
+}
+[class^="flaticon2-"]:before,
+[class*=" flaticon2-"]:before,
+[class^="flaticon2-"]:after,
+[class*=" flaticon2-"]:after {
+    font-family: "Flaticon2";
+    font-size: 20px;
+    font-style: normal;
+    margin-left: 20px;
+}
+.flaticon2-basic21:before {
+    content: "\e000";
+}
+.flaticon2-bicycle21:before {
+    content: "\e001";
+}
+.flaticon2-car6:before {
+    content: "\e002";
+}
